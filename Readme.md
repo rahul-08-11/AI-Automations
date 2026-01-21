@@ -2,9 +2,9 @@
 
 
 
-# 1. SASS Engine (Backend powering snapsass.com):
+## 1. SASS Engine (Backend powering snapsass.com):
 
-## Tools & Integration: Shopify, Printful, Bannerbear, OpenAI, Make.com
+### Tools & Integration: Shopify, Printful, Bannerbear, OpenAI, Make.com
 
 An AI-powered automation system that generates personalized roast merchandise—including T-shirts, mugs, hoodies, and tote bags. The workflow integrates OpenAI, Printful, Bannerbear, and Shopify to automatically receive order data from Shopify, generate a custom AI roast, overlay the text onto product mockups, and sync the final designs back to Shopify for fulfillment.
 
@@ -19,10 +19,9 @@ An AI-powered automation system that generates personalized roast merchandise—
 ### OUTPUT:
 ![alt text](images/sass_output.png)
 
-# ======================================================================
-# 2. Advance Instagram Agent 
+## 2. Advance Instagram Agent 
 
-## Tools & Integration : OpenAI, Meta API (Instagram), Meta App Setup, Supabase, Gmail, Google Sheet, JS/Python, n8n
+### Tools & Integration : OpenAI, Meta API (Instagram), Meta App Setup, Supabase, Gmail, Google Sheet, JS/Python, n8n
 
 An AI-powered automation system that efficiently manages high volumes of Facebook and Instagram messages without triggering actions for every single message.
 
@@ -43,18 +42,18 @@ Overall, the system delivers controlled automation, smarter responses, and seaml
 ![alt text](images/core_chat_engine.png)
 ![alt_text](images/chat_engine.png)
 
-# ======================================================================
-# 3. Multi Agent Ecosystem
+## 3. Multi Agent Ecosystem
 
-## Tools & Integration : Zoho CRM API, Slack, Azure OpenAI, N8N, PostgreSQL, Gmail, JS/Python
+### Tools & Integration : Zoho CRM API, Slack, Azure OpenAI, N8N, PostgreSQL, Gmail, JS/Python
 
 An autonomous multi-agent AI ecosystem that streamlines order processing through intelligent task orchestration. The system employs a master-slave pattern where a **central master agent** coordinates multiple specialized sub-agents, each responsible for specific workflow tasks including order processing, status updates, and customer communication. Integrated seamlessly with Zoho CRM for real-time data management and Slack as an interactive communication channel for gathering customer details and sending notifications.
 
 ![alt text](images/ai_agent_ecosystem_sample.png)
 
-# ======================================================================
 
-# 4. Viral Content Generation Engine Powered by VEO 3.1
+## 4. Viral Content Generation Engine Powered by VEO 3.1
+
+### Tools & Integration : Azure OpenAI, Veo3.1, n8n, Fal.ai API, JS/Python, FFmpeg
 
 An n8n automation that creates studio-quality, interview-style videos in under 60 seconds. The workflow automatically pulls products from the catalog, generates realistic interview scenes featuring those products, adds synced captions, and delivers social-ready, polished video content - instantly transforming raw data into engaging marketing assets at scale.
 
@@ -64,9 +63,8 @@ An n8n automation that creates studio-quality, interview-style videos in under 6
 
 
 
-# ======================================================================
 
-# Personal Projects
+## Personal Projects
 
 ## 1. TermixAI (AI powered terminal)
 
